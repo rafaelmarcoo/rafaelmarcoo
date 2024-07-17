@@ -10,7 +10,7 @@ I aim to become a software engineer working on large-scale software architecture
 *   🌍  I'm based in Auckland
 *   ✉️  You can contact me at [rafaelmarcomanubay@gmail.com](mailto:rafaelmarcomanubay@gmail.com)
 *   🧠  At the moment, I'm learning Data Structures and Algorithms, Operating Systems and Software Construction!
-*   🖥️  I am developing a full stack project on the side! (more details to come!)
+*   🖥️  On the side, I'm currently learning the Java Spring Boot framework to enhance my skills.
 *   🎸  As a Musician, I love performing live!
 
   ### Skills 
