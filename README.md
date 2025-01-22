@@ -8,7 +8,7 @@ Penultimate/3rd Year Software Engineering student at Auckland University of Tech
 *   🌍  I'm based in Auckland
 *   ✉️  You can contact me at [rafaelmarcomanubay@gmail.com](mailto:rafaelmarcomanubay@gmail.com)
 *   🧠  I’m currently working on KitaKits!, which is a social media/chat platform.
-*   💼  Check out my personal portfolio! [https://rafaelmarco-portfolio.vercel.app/]
+*   💼  Check out my personal portfolio! https://rafaelmarco-portfolio.vercel.app/
 *   🎸  As a Musician, I love performing live!
 
 # 💻 Tech Stack:
